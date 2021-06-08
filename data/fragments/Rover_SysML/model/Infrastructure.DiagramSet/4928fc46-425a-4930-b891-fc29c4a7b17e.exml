@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Rover_SysML" version="4">
+  <OBJECT>
+    <ID name="Rover_SysML" mc="Infrastructure.DiagramSet" uid="4928fc46-425a-4930-b891-fc29c4a7b17e"/>
+    <PID name="Rover_SysML" mc="Standard.Project" uid="d42c31b2-9909-489b-84b7-0f703e60a12b"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Rover_SysML]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

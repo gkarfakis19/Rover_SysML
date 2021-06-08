@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="rover_sysml" version="4">
+  <OBJECT>
+    <ID name="rover_sysml" mc="Standard.Package" uid="66ab3435-938f-4621-8743-e2e7641f3cae"/>
+    <PID name="Rover_SysML" mc="Standard.Project" uid="d42c31b2-9909-489b-84b7-0f703e60a12b"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[rover_sysml]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
