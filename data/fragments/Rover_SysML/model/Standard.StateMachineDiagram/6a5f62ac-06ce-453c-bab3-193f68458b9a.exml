@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="State Machine State Machine diagram" version="4">
+  <OBJECT>
+    <ID name="State Machine State Machine diagram" mc="Standard.StateMachineDiagram" uid="6a5f62ac-06ce-453c-bab3-193f68458b9a"/>
+    <PID name="State Machine" mc="Standard.StateMachine" uid="c4b11d6d-dc88-41b4-b082-20c3e1f29dee"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">3</ATT>
+      <ATT name="UiData"><![CDATA[eJztmG1P6jAUx7/KsveMwWBiRIyCIURQg16T+4qcbWVUu5a05cK+/e0YIAyckyHX5PKCsKfz1PP7d+3qV7OAaH8QF5jRS71kmLp21ag/OK/IlRr21CVdk+EYXeqM+0bAPEQwMyYBMYQEiTwMPofAUAeScQMRFCAqxebNdvAUnbbiU10L4JXxwSqoqTfqj5yNEZehRiFQsQiEbCJbIEHdewEyQYsk6IQQvdioF5cGW6ZPMiRI3yihvKuEZXIiel4YLuPIiG0z5NcE4YKHvGWw25nso2HGKPfKxcJSQzPZcjoqx/lhdNCLLTXLmCUKLcYlpRXPEYnGXeWSGLdedEn7E12JhgioB9wz5m3pgTvCdNkdzYbq0C6DWzBtFxUqVcstOOBYhdK5NbRrlWrNOYf0DhAQ8o6yKe2Cg0gikSfJMfX1xjy0toitbZ4tBq1enBum1ssI6tAmC8ZMYKm69UG0DK6aI0w8jiIPXSzkBkDW/hpYwp+L+r5KBKgfAbNoYblsXpSiX6V0USt9WRGVb1dEJIdYe0eBWLPObOTZFadQtYflQsWyyoXamesUKkPXM2uWaVa94aGw/TlgVvOD+chxADy8V8YHZtS82JtPOyufytUszA1p5QRpGqQ9wDTiIyesZ/lhjas++gKidlwc7ROOaTiOkBo0nsGhGLHpALtbjm6YigR0NSxDIAKlFzp39YbCKePeAbxJcN8GQiKO2CfeJJ9kSY3sGP8MrlZkrcF+nkumHaqqokCeOdC4i6LN2WR8fNGWzJNqf5Bq5TsQ+7xHiou/dHZLOXarCt4+8v8lsJn3qSdgjwAsj2E4DKwJCyxe1Bl2YY85e9sVFtiZd/arr6X3jn+W8PZmwVgglwgbzf8+4quwybX/TtXu3F+vxLpUqcuCgFFj/qqLn1rcUsptoSFMiJx/PLmNr+ZfKyZrSW4TMkg680b7tJE5gqQ7AfjxHuI/WT1mzS3v8jHr/JF30vg0ThfTN5F9Hr7xWxymio0uhCr+pnZ3flzZmpW82IFQ85JyEU1F6x6Ps4j4mtWP+EiMk0JYarTVNrrXv2/7g5vr5l27//DrvnXg9eLHXtZb907ROhOpH6ZOTHw3E88Pj4eG4cNbfwFEMHyp]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKEAAABlCAIAAACqShRDAAAD2ElEQVR4nO3d61LaQBjGcW7Ngd6MFOydUJXSy2AYI/YmtFrBTr94Pp8Fzwfowm42IYSyUSFx+3/m+aITsMOv7+4mHaepNrE9qbj/AGTkwdj+YGx/MLY/GNsfjO0PxvYHY/uDsf15q3GKjD7xGOsff7S1JXosu73t78nOju7p7m5P9/ZEz2T393XPDw78vTg89Hp0JHqpe3yse3Vyots4PfV6dibbPD9XvbjQvb681L25uuppoyF6K9ts6t5dX/t7f3Pj9fZW9EH37k738f5e9+nhoaePj6LPsk9P/r48P+u+ETvyyw43Njq0m5uqGI/euPXyIis++VarNVpjNbsaGOPxGkvmqAMd4Wrx1mKIRTGO0bjVTSRm00s1MMZJMI7EbHSd3IMxTpyx2d5sZOwHxjghxm3jUR5+UQAY4+QYGzJjjDHG1huLtzhYX8c4scbSCGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wHGZcne3/RPusEjX8WJ1KZr8vGxrVSOpWZrWGcCGMn4KsyMbukjSv57reMjZ0peT3GiTBeLKRDiTvKhRrGNhi7q3Su7O3HTtYb5UYlG6DPV6TxXL7n27kFCezkAtdPOcr4h+8FmWId43Ebi6ldDT1zhRsHgH3M4cb1Uqbv8nwV4/Hsx4szE4HPXu3EvjNXcK2uT3cX+PR0XS7UczmXM3yt/l2UwplSvbtWV9X7fV/DeEzn6nJw9OSYlU3OXL+Kvv18gHFNDXF+3t2P1Vh/+raG8Tjvj8MHeoDxSjHsqDbAWH0Z9oIFjGN6BlJWe3C6sBRqXP3sIqVn6sPXaozjNNazO+n4jZfcG6psOcx4WQ5xZnqlabQf96/V3DuNcY5XC8EF2h+xJf/D2D1zeVuy6Zmrrr7+soBxPOdqN94zkM6DTA++4p6r+5deZbxa6jmIiXun+ZDlOlP8wxzH97xaHaq959W+u2QxzeJE7W3JqVxVj3LOUc+rHe/+uTPNfc9AxM0xazX/7oQxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjPF/biyAU/x/iwk2Hgo83Fj+NcEYY4w/uHH/co1xQoxNgI2MRYSrnxnjJBh3gLtnrvcxbveu2BgnxdjQzvA6PzPGsRubA0czlswiGMdoLAmiqUW6uu3uzRjHYiw++ZbZHvwmYxFBq3/3GuMxGOtPWzC/wus1xqHYZHR5He37GJMPEYztD8b2B2P7g7H9wdj+YGx/MLY/GNsfjO3PX01TvW5xBro1AAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="Name"><![CDATA[State Machine State Machine diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <REFOBJ>
+          <ID name="State" mc="Standard.State" uid="376ed64b-56f2-4332-87cb-4fcd083005df"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="46b9f4f3-af20-4def-b5fc-412da0478b9a"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

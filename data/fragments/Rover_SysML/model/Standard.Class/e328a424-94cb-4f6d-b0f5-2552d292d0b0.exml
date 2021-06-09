@@ -15,6 +15,9 @@
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="State Machine" mc="Standard.StateMachine" uid="c4b11d6d-dc88-41b4-b082-20c3e1f29dee"/>
+      </COMP>
       <COMP relation="OwnedElement">
         <COMPID name="Optical Flow Sensor" mc="Standard.Class" uid="07db0dec-c570-4d60-993c-9c8c32f5b25b"/>
       </COMP>
